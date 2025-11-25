@@ -1,9 +1,3 @@
-# Artemis-Engine-Android
-
-Ah, you’re right! My bad — I got a bit ahead of myself there. Since it’s an **Android** version of the app, the setup process will definitely differ, especially in terms of installation and dependencies. Let me correct that for you. Here's an updated **README.md** that reflects the Android version of **Artemis Engine**:
-
----
-
 # Artemis Engine - Android Version
 
 Artemis Engine is a sophisticated, institutional-grade trading analysis platform built for Android devices. Combining real-time market data, advanced technical indicators, and deep learning models, Artemis Engine provides actionable financial insights directly on your mobile. With AI-powered analyst reports, predictive tools, and interactive charting, it helps bridge the gap between raw data and strategic decision-making.
@@ -130,5 +124,3 @@ Copyright © 2025 Artemis Engine. All Rights Reserved.
 Unauthorized copying, modification, distribution, or use of this software is strictly prohibited.
 
 ---
-
-Let me know if that’s closer to what you had in mind! I adjusted it for the Android context while keeping the focus on the functionality of the app.
